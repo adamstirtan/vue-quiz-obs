@@ -1,47 +1,62 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
-import TheWelcome from './components/TheWelcome.vue'
+
 </script>
 
 <template>
-  <header>
-    <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
-
-    <div class="wrapper">
-      <HelloWorld msg="You did it!" />
-    </div>
-  </header>
-
-  <main>
-    <TheWelcome />
-  </main>
+  <div class="question">Who is Superman?</div>
+  <div class="answers">
+    <div class="answer">A guy from Krypton</div>
+    <div class="answer">Soup || Man</div>
+    <div class="answer">Klart Cent</div>
+    <div class="answer">Bruce Wayne</div>
+  </div>
 </template>
 
 <style scoped>
-header {
-  line-height: 1.5;
+body {
+  background-color: green;
 }
 
-.logo {
-  display: block;
-  margin: 0 auto 2rem;
+h1 {
+  text-align: center;
 }
 
-@media (min-width: 1024px) {
-  header {
-    display: flex;
-    place-items: center;
-    padding-right: calc(var(--section-gap) / 2);
-  }
+.question {
+  text-align: center;
+  border: 2px solid #fff;
+  border-radius: 10px;
+  background-color: #333;
+  margin: 0 100px;
+  padding: 2rem;
+  color: #fff;
+  font-size: 32px;
+  font-family: Helvetica;
+}
 
-  .logo {
-    margin: 0 2rem 0 0;
-  }
+.answers {
+  margin: 20px auto;
+  width: 800px;
+  display: grid;
+  grid-template-columns: 400px 400px;
+  grid-row: auto auto;
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+}
 
-  header .wrapper {
-    display: flex;
-    place-items: flex-start;
-    flex-wrap: wrap;
-  }
+.answer {
+  background-color: #333;
+  padding: 1.5rem;
+  border-radius: 10px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 40px;
+  font-family: Helvetica;
+  cursor: pointer;
+}
+
+.answer:hover {
+  background-color: #444;
 }
 </style>
