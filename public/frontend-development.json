@@ -1,0 +1,52 @@
+[
+  {
+    "title": "What is the main purpose of software testing?",
+    "options": [
+      "To improve code quality",
+      "To identify bugs and errors",
+      "To increase efficiency",
+      "To ensure compliance with regulations"
+    ],
+    "answer": 1
+  },
+  {
+    "title": "Which of the following is a type of software development methodology?",
+    "options": [
+      "Agile",
+      "Waterfall",
+      "Spiral",
+      "Prototype"
+    ],
+    "answer": 0
+  },
+  {
+    "title": "What is a source code repository used for in software development?",
+    "options": [
+      "To store compiled applications",
+      "To store design documents",
+      "To store source code and track changes",
+      "To store test cases and test results"
+    ],
+    "answer": 2
+  },
+  {
+    "title": "Which of the following programming languages is often used for web development?",
+    "options": [
+      "Python",
+      "Java",
+      "C++",
+      "JavaScript"
+    ],
+    "answer": 3
+  },
+  {
+    "title": "What is the term used to describe the process of identifying and fixing errors in software code?",
+    "options": [
+      "Compilation",
+      "Debugging",
+      "Integration",
+      "Testing"
+    ],
+    "answer": 1
+  }
+]

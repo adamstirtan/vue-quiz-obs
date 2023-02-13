@@ -1,0 +1,52 @@
+[
+  {
+    "title": "What does the acronym 'HTTP' stand for?",
+    "options": [
+      "Hypertext Transfer Protocol",
+      "Hypertext Transfer Port",
+      "Hypertext Transfer Page",
+      "Hypertext Transfer Place"
+    ],
+    "answer": 0
+  },
+  {
+    "title": "What is the purpose of HTTP?",
+    "options": [
+      "To transfer files over the internet",
+      "To transmit data between a server and a client",
+      "To allow communication between multiple devices",
+      "To provide security for internet transactions"
+    ],
+    "answer": 1
+  },
+  {
+    "title": "What is the default port used for HTTP traffic?",
+    "options": [
+      "80",
+      "8080",
+      "443",
+      "21"
+    ],
+    "answer": 0
+  },
+  {
+    "title": "What is the default HTTP method used to retrieve data from a server?",
+    "options": [
+      "POST",
+      "PUT",
+      "GET",
+      "DELETE"
+    ],
+    "answer": 2
+  },
+  {
+    "title": "What is the HTTP response status code indicating that a requested resource could not be found on the server?",
+    "options": [
+      "200 OK",
+      "400 Bad Request",
+      "404 Not Found",
+      "500 Internal Server Error"
+    ],
+    "answer": 2
+  }
+]

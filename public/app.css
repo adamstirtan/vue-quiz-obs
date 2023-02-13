@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    font-family: 'Helvetica', sans-serif;
+}
+
+#app {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+}
+
+.grid-container {
+    display: grid;
+    padding: 2rem;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
+}
+
+.grid-button {
+    background-color: #2B4A6F;
+    padding: 1.5rem;
+    border-radius: 40px;
+    border-style: none;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5em;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+.grid-button:hover {
+    background-color: #4B688B;
+}

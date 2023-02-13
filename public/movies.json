@@ -1,0 +1,52 @@
+[
+  {
+    "title": "What is the highest grossing film of all time (adjusted for inflation)?",
+    "options": [
+      "Gone with the Wind",
+      "Avengers: Endgame",
+      "Star Wars: Episode VII - The Force Awakens",
+      "Avatar"
+    ],
+    "answer": 0
+  },
+  {
+    "title": "Who directed the classic film 'Citizen Kane'?",
+    "options": [
+      "Orson Welles",
+      "Alfred Hitchcock",
+      "Frank Capra",
+      "John Ford"
+    ],
+    "answer": 0
+  },
+  {
+    "title": "What is the name of the actor who played Indiana Jones in the eponymous film series?",
+    "options": [
+      "Harrison Ford",
+      "Tom Cruise",
+      "Matt Damon",
+      "Sean Connery"
+    ],
+    "answer": 0
+  },
+  {
+    "title": "What is the name of the actor who played the Joker in the 2019 film 'Joker'?",
+    "options": [
+      "Joaquin Phoenix",
+      "Heath Ledger",
+      "Jack Nicholson",
+      "Mark Hamill"
+    ],
+    "answer": 0
+  },
+  {
+    "title": "What is the name of the actor who played Rocky Balboa in the 'Rocky' film series?",
+    "options": [
+      "Sylvester Stallone",
+      "Arnold Schwarzenegger",
+      "Bruce Willis",
+      "Chuck Norris"
+    ],
+    "answer": 0
+  }
+]
