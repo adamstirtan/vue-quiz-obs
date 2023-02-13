@@ -23,9 +23,10 @@ export default {
 <style scoped>
   .question {
     margin: 0 2rem;
-    background-color: #2B4A6F;
+    background-color: #000;
     padding: 1.5rem;
-    border-radius: 40px;
+    border-radius: 8px;
+    border: 4px solid #fff;
     color: #fff;
     display: flex;
     align-items: center;

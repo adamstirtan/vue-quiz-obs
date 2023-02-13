@@ -26,7 +26,7 @@ export default {
             gameResult: false,
             questions: [],
             question: null,
-            round: 1,
+            round: 0,
             askFriend: false,
             askAudience: false
         }
@@ -37,19 +37,18 @@ export default {
             type: String
         }
     },
-    mounted: function () {
+    mounted() {
         const subjectFile = `./${this.subject}.json`;
 
         fetch(subjectFile)
             .then((response) => response.json())
             .then((json) => {
                 this.questions = json.sort(() => 0.5 - Math.random()).slice(0, 5);
-                this.round = 0;
                 this.nextQuestion();
             });
     },
     methods: {
-        newGame: function(subject) {
+        newGame(subject) {
             this.subject = subject;
             this.round = 1;
             this.askFriend = false;
@@ -100,7 +99,7 @@ export default {
 
 <style scoped>
     .options {
-        padding: 2rem;
+        padding: 0 2rem 1rem 2rem;
         display: grid;
         grid-auto-flow: column;
         column-gap: 1rem;
@@ -108,16 +107,18 @@ export default {
     }
 
     .option {
-        background-color: #2B4A6F;
+        background-color: #666;
         cursor: pointer;
         transition-duration: 0.4s;
         font-size: 2em;
         padding: 1rem;
-        border-radius: 10px;
-        border-style: none;
+        border-radius: 8px;
+        border: 4px solid #fff;
+        width: 85px;
+        height: 85px;
     }
     .option:hover {
-        background-color: #4B688B;
+        background-color: #444;
     }
     .option:disabled {
         display: none;
