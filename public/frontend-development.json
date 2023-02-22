@@ -1,52 +1,192 @@
 [
-  {
-    "title": "What is the main purpose of software testing?",
-    "options": [
-      "To improve code quality",
-      "To identify bugs and errors",
-      "To increase efficiency",
-      "To ensure compliance with regulations"
-    ],
-    "answer": 1
-  },
-  {
-    "title": "Which of the following is a type of software development methodology?",
-    "options": [
-      "Agile",
-      "Waterfall",
-      "Spiral",
-      "Prototype"
-    ],
-    "answer": 0
-  },
-  {
-    "title": "What is a source code repository used for in software development?",
-    "options": [
-      "To store compiled applications",
-      "To store design documents",
-      "To store source code and track changes",
-      "To store test cases and test results"
-    ],
-    "answer": 2
-  },
-  {
-    "title": "Which of the following programming languages is often used for web development?",
-    "options": [
-      "Python",
-      "Java",
-      "C++",
-      "JavaScript"
-    ],
-    "answer": 3
-  },
-  {
-    "title": "What is the term used to describe the process of identifying and fixing errors in software code?",
-    "options": [
-      "Compilation",
-      "Debugging",
-      "Integration",
-      "Testing"
-    ],
-    "answer": 1
-  }
+    {
+        "title": "What is the name of the popular frontend framework developed by Facebook?",
+        "options": [
+            "Angular",
+            "React",
+            "Vue",
+            "Ember"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "What is the name of the web standards organization that is responsible for developing and maintaining HTML, CSS, and other web technologies?",
+        "options": [
+            "W3C",
+            "WHATWG",
+            "ECMA",
+            "IETF"
+        ],
+        "answer": 0
+    },
+    {
+        "title": "What is the name of the JavaScript runtime engine developed by Google?",
+        "options": [
+            "Node.js",
+            "V8",
+            "SpiderMonkey",
+            "Rhino"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "Which is not a valid HTML tag?",
+        "options": [
+            "<address>",
+            "<mark>",
+            "<video>",
+            "<display>"
+        ],
+        "answer": 3
+    },
+    {
+        "title": "What is the purpose of tree-shaking?",
+        "options": [
+            "Balances a binary tree",
+            "Prunes leaf nodes",
+            "Optimizes out dead code",
+            "Replaces root node"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "What is the name of the specification used for creating scalable vector graphics on the web?",
+        "options": [
+            "SVG",
+            "WebGL",
+            "Canvas",
+            "WebSockets"
+        ],
+        "answer": 0
+    },
+    {
+        "title": "What is a classic architectural design pattern found in web applications?",
+        "options": [
+            "MVC",
+            "VNC",
+            "Microservices",
+            "MVP"
+        ],
+        "answer": 0
+    },
+    {
+        "title": "What is the name of the feature in Vue.js that allows for creating reusable code with encapsulated state and behavior?",
+        "options": [
+            "Directives",
+            "Mixins",
+            "Filters",
+            "Components"
+        ],
+        "answer": 3
+    },
+    {
+        "title": "What is the name of the Vue.js feature that allows for detecting and reacting to changes in data using watchers and computed properties?",
+        "options": [
+            "Reactivity",
+            "Mutations",
+            "Transformations",
+            "Transitions"
+        ],
+        "answer": 0
+    },
+    {
+        "title": "Which is a way to install Vue.js?",
+        "options": [
+            "node install vue",
+            "npm install vue",
+            "apt install vue",
+            "node install -g vue"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "What is the name of the Vue.js lifecycle hook that is called immediately after a component is created?",
+        "options": [
+            "created",
+            "mounted",
+            "updated",
+            "destroyed"
+        ],
+        "answer": 0
+    },
+    {
+        "title": "What is the name of the Vue.js directive used to bind data to an element's HTML attribute?",
+        "options": [
+            "v-attach",
+            "v-model",
+            "v-bind",
+            "v-if"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "What is the name of the CSS function used for creating gradient backgrounds?",
+        "options": [
+            "linear-gradient",
+            "radial-gradient",
+            "repeating-linear-gradient",
+            "repeating-radial-gradient"
+        ],
+        "answer": 0
+    },
+    {
+        "title": "What is the name of the CSS property used for creating a drop shadow effect?",
+        "options": [
+            "text-shadow",
+            "box-shadow",
+            "border-shadow",
+            "background-shadow"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "What is the name of the CSS function used for animating CSS properties over time?",
+        "options": [
+            "transition",
+            "animation",
+            "transform",
+            "opacity"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "What is the name of the CSS property used for creating rounded corners on an element?",
+        "options": [
+            "border-radius",
+            "corner-radius",
+            "border-style",
+            "corner-style"
+        ],
+        "answer": 0
+    },
+    {
+        "title": "What is the name of the CSS property used for creating a flexible grid layout?",
+        "options": [
+            "flex",
+            "grid",
+            "table",
+            "flow"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "In JavaScript, what is a closure?",
+        "options": [
+            "A function that doesn't take any arguments",
+            "A way to keep variables in scope even after a function has returned",
+            "A function that is called when the browser window is closed",
+            "A function that doesn't return a value"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "In JavaScript, what does the term 'hoisting' refer to?",
+        "options": [
+            "The way function declarations are moved to the top of the scope",
+            "The process of converting a value to a string",
+            "The behavior of arrow functions",
+            "The process of accessing an element in an array"
+        ],
+        "answer": 0
+    }
 ]

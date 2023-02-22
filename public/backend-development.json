@@ -1,52 +1,112 @@
 [
   {
-    "title": "What is the main purpose of software testing?",
+    "title": "What is the name of the PHP function used for encrypting data using a secure one-way hash algorithm?",
     "options": [
-      "To improve code quality",
-      "To identify bugs and errors",
-      "To increase efficiency",
-      "To ensure compliance with regulations"
-    ],
-    "answer": 1
-  },
-  {
-    "title": "Which of the following is a type of software development methodology?",
-    "options": [
-      "Agile",
-      "Waterfall",
-      "Spiral",
-      "Prototype"
-    ],
-    "answer": 0
-  },
-  {
-    "title": "What is a source code repository used for in software development?",
-    "options": [
-      "To store compiled applications",
-      "To store design documents",
-      "To store source code and track changes",
-      "To store test cases and test results"
+      "secure()",
+      "lock()",
+      "password_hash()",
+      "crypt()"
     ],
     "answer": 2
   },
   {
-    "title": "Which of the following programming languages is often used for web development?",
+    "title": "What is the name of the PHP function used for connecting to a MySQL database?",
     "options": [
-      "Python",
-      "Java",
-      "C++",
-      "JavaScript"
+      "mysql_connect()",
+      "mysqli_connect()",
+      "pdo_connect()",
+      "mysql_select_db()"
+    ],
+    "answer": 1
+  },
+  {
+    "title": "What is the name of the MySQL function used for returning the current date and time?",
+    "options": [
+      "NOW()",
+      "CURRENT_TIMESTAMP()",
+      "CURRENT_DATE()",
+      "DATE()"
+    ],
+    "answer": 0
+  },
+  {
+    "title": "What is the purpose of database normalization?",
+    "options": [
+      "Deadlock prevention",
+      "Minimizes redundancies across relations",
+      "Ensures indexes are optimized",
+      "Prunes log files"
+    ],
+    "answer": 1
+  },
+  {
+    "title": "What is the purpose of a load balancer?",
+    "options": [
+      "To distribute incoming requests to multiple backend servers to improve performance and availability",
+      "To encrypt and decrypt data between the client and server",
+      "To route incoming requests to the appropriate backend server based on the URL path",
+      "To store session data for a specific user"
+    ],
+    "answer": 0
+  },
+  {
+    "title": "What is the purpose of a containerization technology like Docker?",
+    "options": [
+      "To manage the state of an application and ensure that it is always running",
+      "To store data in a structured format that can be easily queried and analyzed",
+      "To encrypt and decrypt data between the client and server",
+      "To package an application and its dependencies into a single image that can be run on any server that has Docker installed"
     ],
     "answer": 3
   },
   {
-    "title": "What is the term used to describe the process of identifying and fixing errors in software code?",
+    "title": "What is the difference between horizontal scaling and vertical scaling in modern backend development?",
     "options": [
-      "Compilation",
-      "Debugging",
-      "Integration",
-      "Testing"
+      "Horizontal scaling adds more servers to a cluster to handle more traffic, while vertical scaling increases the capacity of an individual server",
+      "Vertical scaling adds more servers to a cluster to handle more traffic, while horizontal scaling increases the capacity of an individual server",
+      "Horizontal scaling and vertical scaling are the same thing",
+      "Horizontal scaling and vertical scaling both refer to adding more servers to a cluster to handle more traffic"
+    ],
+    "answer": 0
+  },
+  {
+    "title": "What is the difference between an include and a require statement in PHP?",
+    "options": [
+      "An include and a require statement are the same thing",
+      "An include and a require statement both produce a fatal error and stop executing the script if the file is not found",
+      "An include statement will produce a warning and continue executing the script if the file is not found, while a require statement will produce a fatal error and stop executing the script",
+      "A require statement will produce a warning and continue executing the script if the file is not found, while an include statement will produce a fatal error and stop executing the script"
+    ],
+    "answer": 2
+  },
+  {
+    "title": "What is a prepared statement in PHP?",
+    "options": [
+      "A way to optimize SQL queries for better performance",
+      "A way to prevent SQL injection attacks in a database",
+      "A way to group related SQL queries together",
+      "A way to create temporary tables in a database"
     ],
     "answer": 1
+  },
+  {
+    "title": "What is the difference between an abstract class and an interface in PHP?",
+    "options": [
+      "An abstract class can have concrete methods, while an interface has method declarations",
+      "An interface can have concrete methods, while an abstract class can only have abstract methods",
+      "An abstract class and an interface are the same thing",
+      "An abstract class and an interface can both have concrete methods"
+    ],
+    "answer": 0
+  },
+  {
+    "title": "What is the purpose of the dd() helper function in Laravel?",
+    "options": [
+      "Dump and die",
+      "Dump and debug",
+      "Debug delimiter",
+      "Debug verbosely"
+    ],
+    "answer": 0
   }
 ]

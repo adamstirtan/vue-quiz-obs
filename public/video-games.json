@@ -1,15 +1,5 @@
 [
     {
-        "title": "What is the name of the protagonist in the classic game 'Super Mario Bros.'?",
-        "options": [
-            "Luigi",
-            "Wario",
-            "Mario",
-            "Bowser"
-        ],
-        "answer": 2
-    },
-    {
         "title": "What was the first video game to feature Mario as a playable character?",
         "options": [
             "Mario Bros.",
@@ -20,33 +10,163 @@
         "answer": 1
     },
     {
-        "title": "What is the name of the popular gaming console developed by Sony?",
+        "title": "How much RAM does the Steam Deck have?",
         "options": [
-            "Nintendo 64",
-            "PlayStation",
-            "Xbox",
-            "Dreamcast"
+            "8 GB",
+            "12 GB",
+            "16 GB",
+            "24 GB"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "Which game holds the record for the most concurrent players on Steam, with over 26 million players online at the same time?",
+        "options": [
+            "PlayerUnknown's Battlegrounds",
+            "Dota 2",
+            "Counter-Strike: Global Offensive",
+            "Fortnite"
         ],
         "answer": 1
     },
     {
-        "title": "What is the name of the organization that the main character, Solid Snake, works for in the 'Metal Gear Solid' series?",
+        "title": "Who wrote the game engine for Doom?",
         "options": [
-            "FOXHOUND",
-            "S.O.L.I.D.",
-            "A.I.M.",
-            "Diamond Dogs"
+            "Donald Knuth",
+            "Scott Hanselman",
+            "John Carmack",
+            "Bjarne Stroustrup"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "A modern GPU that features RTX is capable of what?",
+        "options": [
+            "Ray casting",
+            "Ray functons",
+            "Ray tracing",
+            "Rasterization"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "Who is not a character is Super Smash Bros. Ultimate?",
+        "options": [
+            "Ryu",
+            "Dr. Mario",
+            "Waluigi",
+            "Zelda"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "What was the original name of the game we know as 'Donkey Kong'?",
+        "options": [
+            "Monkey Kong",
+            "Gorilla Panic",
+            "Jumpman",
+            "Barrel Roll"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "What is the name of the first gym leader in the Kanto region?",
+        "options": [
+            "Misty",
+            "Brock",
+            "Erika",
+            "Sabrina"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "Which one is a character from Animal Crossing?",
+        "options": [
+            "Tim Nook",
+            "Nim Took",
+            "Tom Nook",
+            "Tim Cook"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "What is the name of the character you play as in 'Death Stranding'?",
+        "options": [
+            "Sam Porter Bridges",
+            "Norman Reedus",
+            "Hideo Kojima",
+            "Clifford Unger"
         ],
         "answer": 0
     },
     {
-        "title": "In what year was the first 'Grand Theft Auto' game released?",
+        "title": "What is the highest-grossing video game of all time, as of 2023?",
         "options": [
-            "1998",
-            "1997",
-            "1999",
-            "1996"
+            "Minecraft",
+            "Grand Theft Auto V",
+            "Fortnite",
+            "Call of Duty: Modern Warfare"
         ],
         "answer": 1
+    },
+    {
+        "title": "What is the name of the main character in 'God of War'?",
+        "options": [
+            "Kratos",
+            "Athena",
+            "Zeus",
+            "Poseidon"
+        ],
+        "answer": 0
+    },
+    {
+        "title": "What is the name of the princess who is constantly being kidnapped by Bowser in the Super Mario series?",
+        "options": [
+            "Daisy",
+            "Zelda",
+            "Samus",
+            "Peach"
+        ],
+        "answer": 3
+    },
+    {
+        "title": "What is the name of the pink puffball who stars in his own Nintendo game series?",
+        "options": [
+            "Jigglypuff",
+            "Kirby",
+            "Pikachu",
+            "Charizard"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "Which is not a power-up in Mario Kart games?",
+        "options": [
+            "Green Shell",
+            "Poison Mushroom",
+            "Fire Flower",
+            "Gold Mushroom"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "Which is not a starter Pokemon?",
+        "options": [
+            "Squirtle",
+            "Piplup",
+            "Trecko",
+            "Charizard"
+        ],
+        "answer": 3
+    },
+    {
+        "title": "What is the name of the sword from The Legend of Zelda?",
+        "options": [
+            "Guardian Sword",
+            "Hyrule Sword",
+            "Master Sword",
+            "Triforce Sword"
+        ],
+        "answer": 2
     }
 ]

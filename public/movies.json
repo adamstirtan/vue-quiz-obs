@@ -1,52 +1,112 @@
 [
-  {
-    "title": "What is the highest grossing film of all time (adjusted for inflation)?",
-    "options": [
-      "Gone with the Wind",
-      "Avengers: Endgame",
-      "Star Wars: Episode VII - The Force Awakens",
-      "Avatar"
-    ],
-    "answer": 0
-  },
-  {
-    "title": "Who directed the classic film 'Citizen Kane'?",
-    "options": [
-      "Orson Welles",
-      "Alfred Hitchcock",
-      "Frank Capra",
-      "John Ford"
-    ],
-    "answer": 0
-  },
-  {
-    "title": "What is the name of the actor who played Indiana Jones in the eponymous film series?",
-    "options": [
-      "Harrison Ford",
-      "Tom Cruise",
-      "Matt Damon",
-      "Sean Connery"
-    ],
-    "answer": 0
-  },
-  {
-    "title": "What is the name of the actor who played the Joker in the 2019 film 'Joker'?",
-    "options": [
-      "Joaquin Phoenix",
-      "Heath Ledger",
-      "Jack Nicholson",
-      "Mark Hamill"
-    ],
-    "answer": 0
-  },
-  {
-    "title": "What is the name of the actor who played Rocky Balboa in the 'Rocky' film series?",
-    "options": [
-      "Sylvester Stallone",
-      "Arnold Schwarzenegger",
-      "Bruce Willis",
-      "Chuck Norris"
-    ],
-    "answer": 0
-  }
+    {
+        "title": "What colour pill does Neo take in the Matrix?",
+        "options": [
+            "Red",
+            "Blue",
+            "Purple",
+            "Black"
+        ],
+        "answer": 0
+    },
+    {
+        "title": "In the Terminator movies, what was the name of the artifical intelligence?",
+        "options": [
+            "Neuralware",
+            "SkyNet",
+            "ChatGPT",
+            "T-1000"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "Which movie is this line from? \"I wish I knew how to quit you.\"",
+        "options": [
+            "Jurassic World",
+            "Brokeback Mountain",
+            "Batman Begins",
+            "The Whale"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "What year was the future in Back to the Future?",
+        "options": [
+            "2020",
+            "1985",
+            "2015",
+            "2001"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "What movie was this famous line from? \"Here's looking at you, kid.\"",
+        "options": [
+            "The Shawshank Redemption",
+            "Terminator 2",
+            "Frozen",
+            "Casablanca"
+        ],
+        "answer": 3
+    },
+    {
+        "title": "In the Harry Potter movies, who is Tom Riddle?",
+        "options": [
+            "Viktor Krum",
+            "Harry Potter",
+            "Lord Voldemort",
+            "Dumbledore"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "In Jurassic Park, which field of study is Dr. Ian Malcom (Jeff Goldblum) from?",
+        "options": [
+            "Bio-engineering",
+            "Evolutionary biology",
+            "Mathematics",
+            "Theoretical physics"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "Who is not a character from the Despicable Me and Minions movies?",
+        "options": [
+            "Kevin",
+            "Edith",
+            "Agnes",
+            "Nancy"
+        ],
+        "answer": 3
+    },
+    {
+        "title": "What is the name of the character played by Heath Ledger in the 2008 movie 'The Dark Knight'?",
+        "options": [
+            "Joker",
+            "Harvey Dent",
+            "Ra's al Ghul",
+            "Scarecrow"
+        ],
+        "answer": 0
+    },
+    {
+        "title": "Which video game does not have a movie adapatation?",
+        "options": [
+            "Assassin's Creed",
+            "Street Fighter",
+            "Halo",
+            "Mortal Kombat"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "Complete this line from 'Fast and the Furious': \"I live my life...\"",
+        "options": [
+            "...a quarter mile at a time.",
+            "...in the driver seat.",
+            "...running on empty.",
+            "...with my hand on the NOS."
+        ],
+        "answer": 0
+    }
 ]

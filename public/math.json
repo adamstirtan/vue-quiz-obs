@@ -1,52 +1,202 @@
 [
     {
-        "title": "What is the name of the protagonist in the classic game 'Super Mario Bros.'?",
+        "title": "What is the derivative of x^2 with respect to x?",
         "options": [
-            "Luigi",
-            "Wario",
-            "Mario",
-            "Bowser"
-        ],
-        "answer": 2
-    },
-    {
-        "title": "What was the first video game to feature Mario as a playable character?",
-        "options": [
-            "Mario Bros.",
-            "Donkey Kong",
-            "Wrecking Crew",
-            "Super Mario Bros."
-        ],
-        "answer": 1
-    },
-    {
-        "title": "What is the name of the popular gaming console developed by Sony?",
-        "options": [
-            "Nintendo 64",
-            "PlayStation",
-            "Xbox",
-            "Dreamcast"
-        ],
-        "answer": 1
-    },
-    {
-        "title": "What is the name of the organization that the main character, Solid Snake, works for in the 'Metal Gear Solid' series?",
-        "options": [
-            "FOXHOUND",
-            "S.O.L.I.D.",
-            "A.I.M.",
-            "Diamond Dogs"
+            "2x",
+            "x^2",
+            "x",
+            "1"
         ],
         "answer": 0
     },
     {
-        "title": "In what year was the first 'Grand Theft Auto' game released?",
+        "title": "What is the equation for the Pythagorean Theorem?",
         "options": [
-            "1998",
-            "1997",
-            "1999",
-            "1996"
+            "a^2 + b^2 = c^2",
+            "a^3 + b^3 = c^3",
+            "a^2 - b^2 = c^2",
+            "a + b = c"
+        ],
+        "answer": 0
+    },
+    {
+        "title": "What is the difference between the mean and the median?",
+        "options": [
+            "The mean is the average of a set of numbers, while the median is the middle number in a set of numbers",
+            "The median is the average of a set of numbers, while the mean is the middle number in a set of numbers",
+            "The mean is the smallest number in a set of numbers, while the median is the largest number in a set of numbers",
+            "The median is the smallest number in a set of numbers, while the mean is the largest number in a set of numbers"
+        ],
+        "answer": 0
+    },
+    {
+        "title": "What is an eigenvector?",
+        "options": [
+            "The mean is the average of a set of numbers, while the median is the middle number in a set of numbers",
+            "The median is the average of a set of numbers, while the mean is the middle number in a set of numbers",
+            "The mean is the smallest number in a set of numbers, while the median is the largest number in a set of numbers",
+            "The median is the smallest number in a set of numbers, while the mean is the largest number in a set of numbers"
+        ],
+        "answer": 0
+    },
+    {
+        "title": "What is the value of pi to the nearest hundredth?",
+        "options": [
+            "3.12",
+            "3.14",
+            "3.16",
+            "3.18"
         ],
         "answer": 1
-    }
+    },
+    {
+        "title": "What is the formula for the area of a triangle?",
+        "options": [
+            "base * height",
+            "1/2 * base * height",
+            "side^2",
+            "pi * r^2"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "What is the derivative of x^3?",
+        "options": [
+            "3x^2",
+            "2x^3",
+            "x^2",
+            "x^4"
+        ],
+        "answer": 0
+    },
+    {
+        "title": "What is the sum of the angles in a triangle?",
+        "options": [
+            "90 degrees",
+            "180 degrees",
+            "270 degrees",
+            "360 degrees"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "What is the value of e to the nearest hundredth?",
+        "options": [
+            "2.58",
+            "2.71",
+            "2.84",
+            "2.97"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "What is the square of -5?",
+        "options": [
+            "5",
+            "25",
+            "-25",
+            "Undefined"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "What is the derivative of e^x?",
+        "options": [
+            "e^x",
+            "1/x",
+            "ln(x)",
+            "cos(x)"
+        ],
+        "answer": 0
+    },
+    {
+        "title": "What is the formula for the area of a circle?",
+        "options": [
+            "A = 2 * pi * r",
+            "A = pi * r^2",
+            "A = 1/2 * base * height",
+            "A = l * w"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "What is the formula for the volume of a sphere?",
+        "options": [
+            "V = pi * r^2",
+            "V = 4/3 * pi * r^3",
+            "V = l * w * h",
+            "V = 1/2 * base * height"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "What is the smallest prime number?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "What is the formula for the slope of a straight line?",
+        "options": [
+            "y = mx + b",
+            "m = y2 - y1 / x2 - x1",
+            "a^2 + b^2 = c^2",
+            "x = -b +/- sqrt(b^2 - 4ac) / 2a"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "What is the value of the golden ratio?",
+        "options": [
+            "1.41421",
+            "1.73205",
+            "2.23607",
+            "1.61803"
+        ],
+        "answer": 3
+    },
+    {
+        "title": "What is the term for the measure of how spread out a dataset is?",
+        "options": [
+            "Range",
+            "Mean",
+            "Median",
+            "Standard deviation"
+        ],
+        "answer": 3
+    },
+    {
+        "title": "Which of the following is not a type of probability distribution?",
+        "options": [
+            "Normal distribution",
+            "Binomial distribution",
+            "Poisson distribution",
+            "Quadratic distribution"
+        ],
+        "answer": 3
+    },
+    {
+        "title": "What is the term for the line that best fits a set of data points?",
+        "options": [
+            "Regression line",
+            "Correlation line",
+            "Trend line",
+            "Best fit line"
+        ],
+        "answer": 0
+    },
+    {
+        "title": "What are the odds of rolling a 6 on a fair dice twice in a row?",
+        "options": [
+          "2 * 1/6",
+          "1/36",
+          "1/4",
+          "1/6"
+        ],
+        "answer": 1
+      }
 ]
