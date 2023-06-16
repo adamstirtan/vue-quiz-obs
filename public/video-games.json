@@ -168,5 +168,100 @@
             "Triforce Sword"
         ],
         "answer": 2
-    }
+    },
+    {
+        "title": "In the game 'The Legend of Zelda: Breath of the Wild', what is the name of the main protagonist's horse?",
+        "options": ["Tingle", "Beetle", "Korok", "Epona"],
+        "answer": 3
+      },
+      {
+        "title": "In the game 'Minecraft', what material is needed to craft a pickaxe?",
+        "options": ["Diamond", "Iron", "Wood", "Stone"],
+        "answer": 3
+      },
+      {
+        "title": "Which video game series features the character Nathan Drake?",
+        "options": ["Uncharted", "The Elder Scrolls", "Fallout", "Mass Effect"],
+        "answer": 0
+      },
+      {
+        "title": "Which game sucks the most?",
+        "options": ["Death Stranding", "Death Stranding", "Death Stranding", "Death Stranding"],
+        "answer": 0
+      },
+      {
+        "title": "Which video game franchise features the character Lara Croft?",
+        "options": ["Tomb Raider", "Resident Evil", "Metal Gear Solid", "Bioshock"],
+        "answer": 0
+      },
+      {
+        "title": "In the game 'Pokémon', what type is Pikachu?",
+        "options": ["Water", "Electric", "Fire", "Grass"],
+        "answer": 1
+      },
+      {
+        "title": "Which popular video game franchise features the character Kratos?",
+        "options": ["God of War", "Final Fantasy", "Resident Evil", "Assassin's Creed"],
+        "answer": 0
+      },
+      {
+        "title": "Which video game franchise features the character Samus Aran?",
+        "options": ["Metroid", "Halo", "Final Fantasy", "World of Warcraft"],
+        "answer": 0
+      },
+      {
+        "title": "In the game 'Grand Theft Auto V', which city does the story take place in?",
+        "options": ["Liberty City", "Vice City", "Los Santos", "San Andreas"],
+        "answer": 2
+      },
+      {
+        "title": "Which company developed Minecraft?",
+        "options": ["Microsoft", "Electronic Arts (EA)", "Ubisoft", "Mojang Studios"],
+        "answer": 3
+      },
+      {
+        "title": "Which material is immune to explosions in Minecraft?",
+        "options": ["Wood", "Stone", "Obsidian", "Iron"],
+        "answer": 2
+      },
+      {
+        "title": "Which game is often credited with popularizing the first-person shooter genre?",
+        "options": ["Doom", "Quake", "Half-Life", "GoldenEye 007"],
+        "answer": 0
+      },
+      {
+        "title": "Which video game franchise is known for the catchphrase 'Finish Him!'?",
+        "options": ["Street Fighter", "Mortal Kombat", "Tekken", "Super Smash Bros."],
+        "answer": 1
+      },
+      {
+        "title": "Which character is known as the 'Blue Blur'?",
+        "options": ["Sonic the Hedgehog", "Crash Bandicoot", "Rayman", "Pac-Man"],
+        "answer": 0
+      },
+      {
+        "title": "What is the best-selling video game console of all time?",
+        "options": ["PlayStation 4", "Nintendo Switch", "Xbox 360", "PlayStation 2"],
+        "answer": 3
+      },
+      {
+        "title": "Which game features a protagonist named 'Master Chief'?",
+        "options": ["Halo", "Destiny", "Gears of War", "Borderlands"],
+        "answer": 0
+      },
+      {
+        "title": "Which game series is set in the fantasy world of Azeroth?",
+        "options": ["The Elder Scrolls", "World of Warcraft", "Final Fantasy", "Dragon Age"],
+        "answer": 1
+      },
+      {
+        "title": "Which game is set in the post-apocalyptic nuclear wasteland of the United States?",
+        "options": ["Fallout", "Bioshock", "Mass Effect", "The Last of Us"],
+        "answer": 0
+      },
+      {
+        "title": "Which is NOT a name of the iconic ghost characters in the game 'Pac-Man'?",
+        "options": ["Blinky", "Argyle", "Pinky", "Clyde"],
+        "answer": 1
+      }
 ]

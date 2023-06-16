@@ -168,5 +168,155 @@
             "2003"
         ],
         "answer": 2
-    }
+    },
+    {
+        "title": "Who is the author of the book 'To Kill a Mockingbird'?",
+        "options": ["F. Scott Fitzgerald", "Harper Lee", "J.D. Salinger", "John Steinbeck"],
+        "answer": 1
+      },
+      {
+        "title": "Which pop artist released the hit song 'Shape of You'?",
+        "options": ["Ed Sheeran", "Taylor Swift", "Ariana Grande", "Bruno Mars"],
+        "answer": 0
+      },
+      {
+        "title": "Which planet is known as the 'Red Planet'?",
+        "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+        "answer": 2
+      },
+      {
+        "title": "Which artist painted the famous artwork 'The Starry Night'?",
+        "options": ["Pablo Picasso", "Leonardo da Vinci", "Vincent van Gogh", "Claude Monet"],
+        "answer": 2
+      },
+      {
+        "title": "Which scientist is famous for his theory of relativity?",
+        "options": ["Isaac Newton", "Albert Einstein", "Charles Darwin", "Nikola Tesla"],
+        "answer": 1
+      },
+      {
+        "title": "What is the capital city of Australia?",
+        "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+        "answer": 2
+      },
+      {
+        "title": "Which country is home to the tallest mountain in the world, Mount Everest?",
+        "options": ["China", "Nepal", "India", "Tibet"],
+        "answer": 1
+      },
+      {
+        "title": "Who painted the famous artwork 'Mona Lisa'?",
+        "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+        "answer": 2
+      },
+      {
+        "title": "What is the largest ocean on Earth?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "answer": 3
+      },
+      {
+        "title": "What is the chemical symbol for the element gold?",
+        "options": ["Au", "Ag", "Fe", "Cu"],
+        "answer": 0
+      },
+      {
+        "title": "Who is the author of the novel '1984'?",
+        "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Ernest Hemingway"],
+        "answer": 0
+      },
+      {
+        "title": "What is the chemical symbol for the element with atomic number 8?",
+        "options": ["O", "H", "C", "N"],
+        "answer": 0
+      },
+      {
+        "title": "Which type of electromagnetic radiation has the shortest wavelength?",
+        "options": ["Radio waves", "Microwaves", "X-rays", "Gamma rays"],
+        "answer": 3
+      },
+      {
+        "title": "What is the unit of measurement for electric current?",
+        "options": ["Volt", "Watt", "Ohm", "Ampere"],
+        "answer": 3
+      },
+      {
+        "title": "What is the process by which plants convert light energy into chemical energy?",
+        "options": ["Photosynthesis", "Respiration", "Fermentation", "Transpiration"],
+        "answer": 0
+      },
+      {
+        "title": "What is the largest organ in the human body?",
+        "options": ["Liver", "Brain", "Skin", "Heart"],
+        "answer": 2
+      },
+      {
+        "title": "Which scientist is credited with discovering the law of gravity?",
+        "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+        "answer": 0
+      },
+      {
+        "title": "Which process involves the conversion of a solid directly into a gas without passing through the liquid state?",
+        "options": ["Condensation", "Sublimation", "Evaporation", "Freezing"],
+        "answer": 1
+      },
+      {
+        "title": "What is the primary gas responsible for causing climate change?",
+        "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Methane"],
+        "answer": 0
+      },
+      {
+        "title": "Which scientist is famous for his theory of evolution by natural selection?",
+        "options": ["Isaac Newton", "Albert Einstein", "Charles Darwin", "Louis Pasteur"],
+        "answer": 2
+      },
+      {
+        "title": "Which instrument is used to measure atmospheric pressure?",
+        "options": ["Barometer", "Thermometer", "Hydrometer", "Tachometer"],
+        "answer": 0
+      },
+      {
+        "title": "What is the currency of Switzerland?",
+        "options": ["Euro", "Pound Sterling", "Swiss Franc", "US Dollar"],
+        "answer": 2
+      },
+      {
+        "title": "What is the largest planet in our solar system?",
+        "options": ["Jupiter", "Saturn", "Mars", "Neptune"],
+        "answer": 0
+      },
+      {
+        "title": "Who is the author of the play 'Romeo and Juliet'?",
+        "options": ["William Shakespeare", "Oscar Wilde", "George Bernard Shaw", "Tennessee Williams"],
+        "answer": 0
+      },
+      {
+        "title": "What is the capital city of Russia?",
+        "options": ["Moscow", "St. Petersburg", "Kiev", "Minsk"],
+        "answer": 0
+      },
+      {
+        "title": "What is the capital city of China?",
+        "options": ["Shanghai", "Beijing", "Hong Kong", "Tokyo"],
+        "answer": 1
+      },
+      {
+        "title": "Which city is the capital of South Africa?",
+        "options": ["Johannesburg", "Cape Town", "Pretoria", "Durban"],
+        "answer": 2
+      },
+      {
+        "title": "What is the capital city of India?",
+        "options": ["Mumbai", "Kolkata", "Chennai", "New Delhi"],
+        "answer": 3
+      },
+      {
+        "title": "What is the capital city of Saudi Arabia?",
+        "options": ["Dubai", "Riyadh", "Abu Dhabi", "Doha"],
+        "answer": 1
+      },
+      {
+        "title": "Which city is the capital of Argentina?",
+        "options": ["Buenos Aires", "Santiago", "Lima", "Bogota"],
+        "answer": 0
+      }
 ]

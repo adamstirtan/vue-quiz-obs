@@ -198,5 +198,150 @@
           "1/6"
         ],
         "answer": 1
+      },
+      {
+        "title": "Which of the following is a prime number?",
+        "options": ["12", "15", "17", "20"],
+        "answer": 2
+      },
+      {
+        "title": "What is the square root of 64?",
+        "options": ["6", "8", "10", "12"],
+        "answer": 1
+      },
+      {
+        "title": "In a right-angled triangle, which side is opposite to the right angle?",
+        "options": ["Hypotenuse", "Adjacent", "Opposite", "Adjacent and opposite are equal"],
+        "answer": 2
+      },
+      {
+        "title": "What is the result of 5! (5 factorial)?",
+        "options": ["10", "20", "60", "120"],
+        "answer": 3
+      },
+      {
+        "title": "What is the result of 8 ÷ 2(2+2)?",
+        "options": ["1", "4", "8", "16"],
+        "answer": 3
+      },
+      {
+        "title": "If x + 5 = 12, what is the value of x?",
+        "options": ["3", "5", "7", "12"],
+        "answer": 0
+      },
+      {
+        "title": "In a circle, what is the ratio of the circumference to the diameter?",
+        "options": ["π (pi)", "2π", "2", "1/2"],
+        "answer": 0
+      },
+      {
+        "title": "What is the famous mathematical constant e approximately equal to?",
+        "options": ["2.718", "3.142", "1.618", "0.577"],
+        "answer": 0
+      },
+      {
+        "title": "What is the sum of the interior angles of a triangle?",
+        "options": ["90 degrees", "180 degrees", "270 degrees", "360 degrees"],
+        "answer": 1
+      },
+      {
+        "title": "What is the name given to a polygon with seven sides?",
+        "options": ["Hexagon", "Octagon", "Pentagon", "Heptagon"],
+        "answer": 3
+      },
+      {
+        "title": "Which Greek letter is commonly used to represent the golden ratio?",
+        "options": ["Alpha", "Beta", "Gamma", "Phi"],
+        "answer": 3
+      },
+      {
+        "title": "What is the mathematical term for the process of finding the derivative of a function?",
+        "options": ["Integration", "Differentiation", "Limit", "Derivation"],
+        "answer": 1
+      },
+      {
+        "title": "What is the term for a number that is not divisible by any other number except 1 and itself?",
+        "options": ["Composite number", "Prime number", "Odd number", "Even number"],
+        "answer": 1
+      },
+      {
+        "title": "Which Greek mathematician is known as the 'Father of Geometry'?",
+        "options": ["Einstein", "Euclid", "Randono", "Hawkins"],
+        "answer": 1
+      },
+      {
+        "title": "Which equation represents Einstein's theory of relativity?",
+        "options": ["E = mc²", "F = ma", "P = mv", "E = hf"],
+        "answer": 0
+      },
+      {
+        "title": "What is the formula for calculating the speed of an object?",
+        "options": ["s = d / t", "v = a * t", "F = ma", "P = F / A"],
+        "answer": 0
+      },
+      {
+        "title": "Which formula is used to calculate the force exerted by an object?",
+        "options": ["F = ma", "E = mc²", "P = F / A", "v = u + at"],
+        "answer": 0
+      },
+      {
+        "title": "What is the formula for converting Celsius to Fahrenheit?",
+        "options": ["F = (C × 9/5) + 32", "F = C + 273.15", "F = C / 5", "F = C - 32"],
+        "answer": 0
+      },
+      {
+        "title": "Which data structure follows the Last-In-First-Out (LIFO) principle?",
+        "options": ["Queue", "Heap", "Stack", "Tree"],
+        "answer": 2
+      },
+      {
+        "title": "What is the binary representation of the decimal number 25?",
+        "options": ["11001", "10001", "11111", "10101"],
+        "answer": 0
+      },
+      {
+        "title": "Which mathematical function is commonly used for rounding a floating-point number to the nearest integer?",
+        "options": ["ceil", "pow", "round", "trunc"],
+        "answer": 2
+      },
+      {
+        "title": "What is the time complexity of searching an element in a sorted array using binary search?",
+        "options": ["O(1)", "O(log n)", "O(n)", "O(n log n)"],
+        "answer": 1
+      },
+      {
+        "title": "What is the result of 2^8?",
+        "options": ["256", "64", "512", "128"],
+        "answer": 0
+      },
+      {
+        "title": "Which sorting algorithm has the worst-case time complexity of O(n^2)?",
+        "options": ["Bubble sort", "Insertion sort", "Merge sort", "Quick sort"],
+        "answer": 0
+      },
+      {
+        "title": "What is the time complexity of finding an element in a hash table (assuming a good hash function)?",
+        "options": ["O(1)", "O(log n)", "O(n)", "O(n log n)"],
+        "answer": 0
+      },
+      {
+        "title": "Which mathematical concept is the basis for public-key cryptography?",
+        "options": ["Modular arithmetic", "Matrix multiplication", "Boolean algebra", "Discrete logarithm"],
+        "answer": 0
+      },
+      {
+        "title": "What is the maximum decimal value that can be represented with 8 bits?",
+        "options": ["128", "256", "64", "255"],
+        "answer": 3
+      },
+      {
+        "title": "What is the result of 1111 XOR 0101 in binary?",
+        "options": ["1010", "1110", "1001", "0000"],
+        "answer": 0
+      },
+      {
+        "title": "Which logical operator returns true only if exactly one of the operands is true?",
+        "options": ["AND", "OR", "NOT", "XOR"],
+        "answer": 3
       }
 ]

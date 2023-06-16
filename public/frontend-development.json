@@ -188,5 +188,75 @@
             "The process of accessing an element in an array"
         ],
         "answer": 0
-    }
+    },
+    {
+        "title": "What does CSS stand for?",
+        "options": ["Cascading Style Sheets", "Computer Style Sheets", "Colorful Style Sheets", "Creative Style Sheets"],
+        "answer": 0
+      },
+      {
+        "title": "Which of the following is NOT a valid CSS length unit?",
+        "options": ["rem", "em", "px", "pt"],
+        "answer": 3
+      },
+      {
+        "title": "What does HTML stand for?",
+        "options": ["Hyper Text Markup Language", "Home Tool Markup Language", "Hyperlinks and Text Markup Language", "Hyper Text Markup Leveler"],
+        "answer": 0
+      },
+      {
+        "title": "Which of the following methods is used to make an asynchronous HTTP request in JavaScript?",
+        "options": ["fetch()", "ajax()", "get()", "request()"],
+        "answer": 0
+      },
+      {
+        "title": "What does the 'box-sizing' CSS property determine?",
+        "options": ["The size of the element's content box", "The size of the element's border box", "The size of the element's margin box", "The size of the element's padding box"],
+        "answer": 1
+      },
+      {
+        "title": "Which of the following methods is used to remove an element from the DOM in JavaScript?",
+        "options": ["removeChild()", "deleteElement()", "detach()", "destroy()"],
+        "answer": 0
+      },
+      {
+        "title": "In JavaScript, what does the 'this' keyword refer to?",
+        "options": ["The current function", "The global object", "The parent object", "The object on which the method is being invoked"],
+        "answer": 3
+      },
+      {
+        "title": "What does the 'querySelectorAll()' method return in JavaScript?",
+        "options": ["A single element that matches the specified selector", "An array-like object of all elements that match the specified selector", "The first element that matches the specified selector", "The number of elements that match the specified selector"],
+        "answer": 1
+      },
+      {
+        "title": "Which of the following is the composition API introduced in Vue 3?",
+        "options": ["Options API", "Reactivity API", "Setup API", "Lifecycle API"],
+        "answer": 2
+      },
+      {
+        "title": "What is the directive used to conditionally render elements in Vue 3?",
+        "options": ["v-bind", "v-if", "v-for", "v-model"],
+        "answer": 1
+      },
+      {
+        "title": "Which of the following is used to emit custom events in Vue 3?",
+        "options": ["$event", "$emit", "$on", "$dispatch"],
+        "answer": 1
+      },
+      {
+        "title": "What is the function used to declare a reactive state variable in Vue 3?",
+        "options": ["reactive()", "ref()", "computed()", "watch()"],
+        "answer": 1
+      },
+      {
+        "title": "In Vue 3, which of the following is the new way to access a parent component's data?",
+        "options": ["props", "slots", "provide/inject", "computed properties"],
+        "answer": 2
+      },
+      {
+        "title": "What is the function used to perform side effects in the setup() function of a Vue 3 component?",
+        "options": ["onMounted()", "created()", "beforeMount()", "watchEffect()"],
+        "answer": 3
+      }
 ]

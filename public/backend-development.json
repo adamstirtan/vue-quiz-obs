@@ -108,5 +108,130 @@
       "Debug verbosely"
     ],
     "answer": 0
+  },
+  {
+    "title": "Which of the following is a widely used Python web framework?",
+    "options": ["Blazor", "Laravel", "Express.js", "Flask"],
+    "answer": 3
+  },
+  {
+    "title": "What does SQL stand for?",
+    "options": ["Structured Query Language", "Sequential Query Language", "Standard Query Language", "Static Query Language"],
+    "answer": 0
+  },
+  {
+    "title": "What does PHP stand for?",
+    "options": ["PHP: Hypertext Preprocessor", "Personal Hypertext Processor", "Private Home Page", "Public Hosting Platform"],
+    "answer": 0
+  },
+  {
+    "title": "Which HTTP method is used to update data from on a server?",
+    "options": ["GET", "POST", "PUT", "DELETE"],
+    "answer": 2
+  },
+  {
+    "title": "What is the purpose of a CDN (Content Delivery Network)?",
+    "options": ["To host databases", "To store backend code", "To distribute website content", "To manage server configurations"],
+    "answer": 2
+  },
+  {
+    "title": "What does ORM stand for in the context of database management?",
+    "options": ["Object-Relational Mapping", "Object-Reserved Model", "Object-Related Method", "Object-Resource Management"],
+    "answer": 0
+  },
+  {
+    "title": "What does PaaS stand for in cloud computing?",
+    "options": ["Platform as a Service", "Private as a Service", "Programming as a Solution", "Public as a Service"],
+    "answer": 0
+  },
+  {
+    "title": "Which cloud computing service is known for its serverless computing platform called Firebase?",
+    "options": ["AWS", "Azure", "Google Cloud Platform", "DigitalOcean"],
+    "answer": 2
+  },
+  {
+    "title": "Which architectural pattern involves dividing an application into distinct, interconnected layers, such as presentation, application, and data layers?",
+    "options": ["Layered Architecture", "Distributed Architecture", "Client-Server Architecture", "Event-Driven Architecture"],
+    "answer": 0
+  },
+  {
+    "title": "What is the primary role of an API gateway in a microservices architecture?",
+    "options": ["To manage authentication and authorization", "To provide data caching and rate limiting", "To orchestrate and route requests to appropriate services", "To handle client-side state management"],
+    "answer": 2
+  },
+  {
+    "title": "Which architectural pattern allows components to communicate with each other by sending and receiving messages?",
+    "options": ["Event-Driven Architecture", "Publish-Subscribe Architecture", "Layered Architecture", "Component-Based Architecture"],
+    "answer": 0
+  },
+  {
+    "title": "Which architectural style focuses on creating self-contained, independent components with explicit boundaries and contracts?",
+    "options": ["Monolithic Architecture", "Service-Oriented Architecture (SOA)", "Event-Driven Architecture", "Layered Architecture"],
+    "answer": 1
+  },
+  {
+    "title": "What is the primary goal of the microservices architectural style?",
+    "options": ["To create monolithic applications", "To centralize application logic", "To establish strong data consistency", "To decompose a system into independent services"],
+    "answer": 3
+  },
+  {
+    "title": "Which architectural style emphasizes the separation of concerns by dividing an application into layers such as presentation, business logic, and data access?",
+    "options": ["MVC (Model-View-Controller)", "REST (Representational State Transfer)", "SOA (Service-Oriented Architecture)", "Microservices"],
+    "answer": 0
+  },
+  {
+    "title": "What does REST stand for in the context of web services?",
+    "options": ["Representational State Transfer", "Remote Execution and Service Testing", "Responsive Encoding and Stateless Transmission", "Reliable Endpoint Security and Tracking"],
+    "answer": 0
+  },
+  {
+    "title": "Which of the following is NOT a constraint of REST architecture?",
+    "options": ["Client-server architecture", "Uniform interface", "Stateless communication", "Session management"],
+    "answer": 3
+  },
+  {
+    "title": "In a RESTful API, what is the purpose of the 'Resource' component?",
+    "options": ["To define the available actions on the server", "To store and manage data", "To provide authentication and authorization", "To represent a specific entity or concept"],
+    "answer": 3
+  },
+  {
+    "title": "What does HATEOAS stand for in the context of RESTful APIs?",
+    "options": ["Hypermedia As The Engine Of Application State", "Hypertext And Transfer Exchange Over API Services", "HTTP Authorization Technique For Easy Object Serialization", "Heuristic Approach To Endpoint Orchestration And Security"],
+    "answer": 0
+  },
+  {
+    "title": "Which of the following is NOT a widely used version control system for tracking changes in source code?",
+    "options": ["Perforce", "SVN", "Mercurial", "Dropbox"],
+    "answer": 3
+  },
+  {
+    "title": "What is the purpose of a package manager in backend software development?",
+    "options": ["To manage dependencies and libraries", "To debug code and fix issues", "To create user interfaces", "To handle network requests"],
+    "answer": 0
+  },
+  {
+    "title": "Which database management system is known for its document-oriented approach and flexibility?",
+    "options": ["MongoDB", "MySQL", "PostgreSQL", "Oracle"],
+    "answer": 0
+  },
+  {
+    "title": "What is the purpose of an API documentation tool in backend development?",
+    "options": ["To analyze code complexity", "To generate code from design specifications", "To provide reference documentation for developers", "To automate code deployment"],
+    "answer": 2
+  },
+  {
+    "title": "Which tool is commonly used for benchmarking and load testing web applications?",
+    "options": ["Apache JMeter", "Selenium", "Postman", "Cucumber"],
+    "answer": 0
+  },
+  {
+    "title": "What is the purpose of an Object-Relational Mapping (ORM) tool in backend development?",
+    "options": ["To manage database schema migrations", "To handle asynchronous operations", "To optimize database queries", "To facilitate the mapping between database records and objects"],
+    "answer": 3
+  },
+  {
+    "title": "What is the purpose of a message broker in a backend architecture?",
+    "options": ["To manage authentication and authorization", "To handle client-side routing", "To facilitate communication between distributed components", "To monitor application performance"],
+    "answer": 2
   }
 ]

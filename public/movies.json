@@ -80,7 +80,7 @@
         "answer": 3
     },
     {
-        "title": "Who was the primary villain of the 2008 movie 'The Dark Knight'?",
+        "title": "Who was the villain of the in 'The Dark Knight'?",
         "options": [
             "Joker",
             "Harvey Dent",
@@ -108,5 +108,55 @@
             "...with my hand on the NOS."
         ],
         "answer": 0
+    },
+    {
+        "title": "Which actor was stranded on Mars in The Martian?",
+        "options": [
+            "Ryan Reynolds",
+            "Jared Leto",
+            "Chris Pratt",
+            "Matt Damon"
+        ],
+        "answer": 3
+    },
+    {
+        "title": "Which Philip K. Dick novel is Blade Runner loosely based on?",
+        "options": [
+            "Valis",
+            "Do Androids Dream of Electric Sheep?",
+            "Total Recall",
+            "A Scanner Darkly"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "In Guardians of the Galaxy, what momento does Peter Quill have from his mother?",
+        "options": [
+            "Keys",
+            "Mix tape",
+            "Diary",
+            "Photograph"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "What is the name of the computer in '2001: A Space Odyssey'?",
+        "options": [
+            "Max",
+            "Alexa",
+            "Hal",
+            "Dave"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "Which Scottish military hero does the movie 'Braveheart' follow?",
+        "options": [
+            "Ewan McGregor",
+            "James Watt",
+            "William Wallace",
+            "Joseph Black"
+        ],
+        "answer": 2
     }
 ]
