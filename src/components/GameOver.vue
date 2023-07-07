@@ -6,19 +6,16 @@
         <div v-else>
             😢 You lose!
         </div>
-        <button type="button" @click="$.emit('startOverClicked')">Start over</button>
+        <button type="button" @click="emit('startOverClicked')">Start over</button>
     </div>
 </template>
 
-<script>
-export default {
-    props: {
-        result: {
-            required: true,
-            type: Boolean
-        }
-    }
-}
+<script setup lang="ts">
+type GameOverProps = { result: boolean }
+const { result } = defineProps<GameOverProps>()
+
+const emit = defineEmits(['startOverClicked'])
+
 </script>
 
 <style scoped>

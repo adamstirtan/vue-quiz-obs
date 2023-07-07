@@ -1,36 +1,121 @@
+
+/* Box sizing rules */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Remove default margin */
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+figure,
+blockquote,
+dl,
+dd,
+input,
+button,
+textarea,
+select {
+  margin: 0;
+}
+
+/* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
+ul[role='list'],
+ol[role='list'] {
+  list-style: none;
+}
+
+/* Set core root defaults */
+html:focus-within {
+  scroll-behavior: smooth;
+}
+
+/* Set core body defaults */
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  text-rendering: optimizeSpeed;
+  line-height: 1.5;
+  -webkit-text-size-adjust: 100%; /* 2 */
+  margin: 0;
+  color: #2b2b2b;
+}
+
+@supports (height: 100dvh) {
+  body {
+    height: 100dvh;
+  }
+}
+
+main {
+  display: block;
+}
+
+/* A elements that don't have a class get default styles */
+a:not([class]) {
+  text-decoration-skip-ink: auto;
+}
+
+/* Make images easier to work with */
+img,
+picture {
+  max-width: 100%;
+  display: block;
+  border-style: none;
+}
+
+/* Inherit fonts for inputs and buttons */
+input,
+button,
+textarea,
+select {
+  font: inherit;
+  font-family: inherit;
+  font-size: 100%;
+}
+
+button,
+[type='button'],
+[type='reset'],
+[type='submit'] {
+  -webkit-appearance: none;
+}
+
+textarea {
+  overflow: auto;
+}
+
+a {
+  background-color: transparent;
+}
+
+[type='radio'] {
+  padding: 0; /* 2 */
+}
+
+[type='number']::-webkit-inner-spin-button,
+[type='number']::-webkit-outer-spin-button {
+  height: auto;
+}
+
+[hidden] {
+  display: none;
+}
+
 body {
     margin: 0;
     font-family: 'Helvetica', sans-serif;
 }
 
 #app {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    width: 100%;
-}
-
-.grid-container {
-    display: grid;
-    padding: 1rem 2rem 2rem 2rem;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 1rem;
-}
-
-.grid-button {
-    background-color: #000;
-    padding: 1.5rem;
-    border-radius: 8px;
-    border: 4px solid #fff;
-    color: #fff;
     display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 1.5em;
-    cursor: pointer;
-    transition-duration: 0.4s;
-}
-.grid-button:hover {
-    background-color: green;
+    flex-direction: column;
+    flex-grow: 1;
+    min-height: 0;
 }
